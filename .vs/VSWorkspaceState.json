@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\Controllers",
+    "\\Entities",
+    "\\Migrations",
+    "\\Models",
+    "\\wwwroot",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\wwwroot\\lib",
+  "PreviewInSolutionExplorer": false
+}

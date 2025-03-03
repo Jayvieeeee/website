@@ -286,3 +286,6 @@ C:\Users\Jayvie\source\repos\CustomAuth\CustomAuth\obj\Debug\net8.0\refint\Custo
 C:\Users\Jayvie\source\repos\CustomAuth\CustomAuth\obj\Debug\net8.0\CustomAuth.pdb
 C:\Users\Jayvie\source\repos\CustomAuth\CustomAuth\obj\Debug\net8.0\CustomAuth.genruntimeconfig.cache
 C:\Users\Jayvie\source\repos\CustomAuth\CustomAuth\obj\Debug\net8.0\ref\CustomAuth.dll
+C:\Users\Chrisha Dalmacio\OneDrive\Documents\GitHub\website\obj\Debug\net8.0\CustomAuth.dll
+C:\Users\Chrisha Dalmacio\OneDrive\Documents\GitHub\website\obj\Debug\net8.0\refint\CustomAuth.dll
+C:\Users\Chrisha Dalmacio\OneDrive\Documents\GitHub\website\obj\Debug\net8.0\CustomAuth.pdb
